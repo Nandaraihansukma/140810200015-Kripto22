@@ -1,7 +1,7 @@
 /*Program Shift Cipher
 Nama    : Nanda Raihan Sukma
 NPM     : 140810200015    
-Kelas   : B
+Kelas   : A
 */
 
 #include <iostream>
