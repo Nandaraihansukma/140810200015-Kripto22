@@ -1,3 +1,9 @@
+/*Program Vigenere Cipher
+Nama    : Nanda Raihan Sukma
+NPM     : 140810200015    
+Kelas   : A
+*/
+
 #include <iostream>
 #include <string>
 
